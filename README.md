@@ -1,0 +1,2 @@
+# eym
+i made this extension to make more easily to download music from youtube. I just get an exemple code of extension with JS from https://www.c-sharpcorner.com/article/create-chrome-extension-and-implement-basic-use-cases/ and modify to work with a Iframe API by https://www.yt-download.org, I thought about styling but as a iframe i don't have much controll so i just made it functional. fell free to use or modify, but at you own risk (remember youtube policies). ;D
